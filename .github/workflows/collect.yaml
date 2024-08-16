@@ -2,7 +2,7 @@ name: Collect
 on:
   # executed once a week on Sundays at 00:00
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -65,7 +65,7 @@ jobs:
           fi
 
       - name: Collect
-        run: python -u subscribe/collect.py --all --overwrite --skip
+        run: python -u subscribe/collect.py --overwrite --skip
 
       - name: Timestamp
         run: date
