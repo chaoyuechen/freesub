@@ -15,8 +15,8 @@
 > 略，自行探索。我才不会告诉你入口是 `collect.py` 和 `process.py`
 
 ## 共享订阅
-+ Clash: https://imperialb.in/r/ununbd0v
-+ V2Ray: https://imperialb.in/r/nwfoyovz
++ Clash: https://imperialb.in/r/mmhhcojp
++ V2Ray: https://imperialb.in/r/xdsv0kpz
 
 ## 免责申明
 + 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
